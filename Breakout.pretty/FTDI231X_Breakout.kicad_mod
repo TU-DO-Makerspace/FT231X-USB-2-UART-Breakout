@@ -14,7 +14,7 @@
       (effects (font (size 1 1) (thickness 0.2) bold) (justify left bottom))
     (tstamp 3c88895b-f6af-4f06-9c41-286b0c76fe01)
   )
-  (fp_text user "FTDI231X-Breakout" (at 8.255 26.035 90 unlocked) (layer "F.SilkS")
+  (fp_text user "FT231X-Breakout" (at 8.255 25.4 90 unlocked) (layer "F.SilkS")
       (effects (font (size 1 1.5) (thickness 0.2) bold) (justify left bottom))
     (tstamp 430c87fe-8801-488f-b319-80df55de697e)
   )
