@@ -64,11 +64,11 @@
       39,
       40
     ],
-    "visible_layers": "ffdffff_ffffffff",
+    "visible_layers": "00010a0_00000000",
     "zone_display_mode": 1
   },
   "meta": {
-    "filename": "FTDIBreakout.kicad_prl",
+    "filename": "FT231x-Breakout.kicad_prl",
     "version": 3
   },
   "project": {

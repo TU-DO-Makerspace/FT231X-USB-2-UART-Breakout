@@ -5225,7 +5225,7 @@
   (gr_text "CTS" (at 127.635 124.68075) (layer "F.SilkS") (tstamp acbe48e6-7d4c-478b-a3f2-f11e67145c60)
     (effects (font (size 1 1) (thickness 0.15)) (justify right bottom))
   )
-  (gr_text "Revision 1.1\nPatrick Pedersen\nctx.xda@gmail.com" (at 80.391 92.075) (layer "F.SilkS") (tstamp b10318a9-f799-4e85-b08a-f017e3caaecd)
+  (gr_text "Revision 1.2\nPatrick Pedersen\nctx.xda@gmail.com" (at 80.391 92.075) (layer "F.SilkS") (tstamp b10318a9-f799-4e85-b08a-f017e3caaecd)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
   (gr_text "CBUS0" (at 127.635 95.123) (layer "F.SilkS") (tstamp bc039148-8d49-4e5a-b496-be442d1a809c)

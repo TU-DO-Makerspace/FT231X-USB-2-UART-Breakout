@@ -1665,7 +1665,7 @@
     (effects (font (size 1 1)) (justify left bottom))
     (uuid 920310b1-ef6c-4dc4-84a6-264527b1a2d7)
   )
-  (text "Revision 1.1" (at 18.415 33.02 0)
+  (text "Revision 1.2" (at 18.415 33.02 0)
     (effects (font (size 2 2)) (justify left bottom))
     (uuid bad3350e-7dc6-4d0c-9f12-9147358c5432)
   )
@@ -1765,7 +1765,7 @@
     (pin "1" (uuid 1ba2101a-5066-47c9-8dfb-8941922216a3))
     (pin "2" (uuid 3b5f2b68-b357-403a-bd68-522e1041ed31))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "D2") (unit 1)
         )
@@ -1790,7 +1790,7 @@
     )
     (pin "1" (uuid c60adeae-0a75-47d0-8338-e814fe0a4afb))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "#PWR02") (unit 1)
         )
@@ -1815,7 +1815,7 @@
     )
     (pin "1" (uuid ca263b33-2f0c-41af-a80c-51f46eed05e5))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "#PWR08") (unit 1)
         )
@@ -1840,7 +1840,7 @@
     )
     (pin "1" (uuid e6eb493b-f508-4c27-9f6a-21a20cfeea65))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "#PWR022") (unit 1)
         )
@@ -1865,7 +1865,7 @@
     )
     (pin "1" (uuid 7b2e860f-87cf-469e-bda5-065693dd5969))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "#PWR04") (unit 1)
         )
@@ -1879,7 +1879,7 @@
     (property "Reference" "R1" (at 89.535 56.515 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "1k" (at 89.535 59.055 0)
+    (property "Value" "10k" (at 89.535 59.055 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (at 85.852 57.785 90)
@@ -1891,7 +1891,7 @@
     (pin "2" (uuid e6ce632c-3762-45c1-b327-027611ad7a0e))
     (pin "1" (uuid b1edfa36-7d24-49a8-b998-cdbe6566afcc))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "R1") (unit 1)
         )
@@ -1916,7 +1916,7 @@
     )
     (pin "1" (uuid b2fd80db-8b55-4423-8474-5dd4e6f2f593))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "#PWR015") (unit 1)
         )
@@ -1941,7 +1941,7 @@
     )
     (pin "1" (uuid 5552e71c-5605-4ef6-b565-898297bb1ffa))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "#PWR020") (unit 1)
         )
@@ -1966,7 +1966,7 @@
     )
     (pin "1" (uuid a3c2cd9b-a244-4be1-b166-47965f168aaf))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "#PWR013") (unit 1)
         )
@@ -1992,7 +1992,7 @@
     (pin "1" (uuid 70348083-1c6a-42a3-8cca-40ead8470726))
     (pin "2" (uuid 36c43999-0676-49e0-8bdb-424a0168af0d))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "D3") (unit 1)
         )
@@ -2018,7 +2018,7 @@
     (pin "1" (uuid 0fdd4a54-e7a2-4822-bd32-f7fe2fe03d17))
     (pin "2" (uuid 87e9e4e3-d334-4820-97c9-9db875a9e3f5))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "J4") (unit 1)
         )
@@ -2062,7 +2062,7 @@
     (pin "7" (uuid 1243c2e2-7cd0-4aeb-a829-124029d60e07))
     (pin "8" (uuid fba57758-4d45-4d2e-a580-447b345b057b))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "U1") (unit 1)
         )
@@ -2088,7 +2088,7 @@
     (pin "2" (uuid ba123749-c164-4203-aa7b-6f95a0c7a156))
     (pin "1" (uuid ec20c916-266e-4077-abb0-ae842f969f21))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "R6") (unit 1)
         )
@@ -2113,7 +2113,7 @@
     )
     (pin "1" (uuid fc5d7628-0979-4463-a808-6e7ce3df573b))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "#PWR014") (unit 1)
         )
@@ -2138,7 +2138,7 @@
     )
     (pin "1" (uuid 65a96701-a8bb-4269-98eb-4b2ee5ef40ed))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "#PWR09") (unit 1)
         )
@@ -2164,7 +2164,7 @@
     (pin "1" (uuid d30c664f-2e46-477a-93b1-4909654dec14))
     (pin "2" (uuid e89e3fcf-fa94-46c9-9738-b8845bf900f9))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "C2") (unit 1)
         )
@@ -2190,7 +2190,7 @@
     (pin "2" (uuid fb583f23-a0f7-4660-93e0-8e3fb7efae73))
     (pin "1" (uuid 19f04753-0c39-40a2-961f-32c9a08e2240))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "R2") (unit 1)
         )
@@ -2216,7 +2216,7 @@
     (pin "2" (uuid 90be4f2d-79a5-4fb5-87d7-de8b0b10c6af))
     (pin "1" (uuid ff059e32-fc91-4408-aa80-ff069727dc70))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "C1") (unit 1)
         )
@@ -2241,7 +2241,7 @@
     )
     (pin "1" (uuid 89af7e3b-8f34-484c-9dac-f8414fa892cc))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "#PWR018") (unit 1)
         )
@@ -2267,7 +2267,7 @@
     (pin "2" (uuid 777a9cd5-16d2-40a6-a56c-12d910ecce0e))
     (pin "1" (uuid f8342637-f840-4be1-934e-44cb8df42d8b))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "R7") (unit 1)
         )
@@ -2296,7 +2296,7 @@
     (pin "3" (uuid 477b4e91-57cc-4afc-9cd3-d6a95ae0100d))
     (pin "4" (uuid 6470a0d6-9232-4918-8ac8-d99bb34d63a4))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "J2") (unit 1)
         )
@@ -2324,7 +2324,7 @@
     (pin "3" (uuid 158b2ff1-2b45-461f-a60b-4239a0bc0f09))
     (pin "4" (uuid 779282e5-8957-4eb4-be67-165f6c7e778e))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "J1") (unit 1)
         )
@@ -2351,7 +2351,7 @@
     (pin "3" (uuid 6958b94d-c8a1-40fc-9488-ecbf65ae5aec))
     (pin "1" (uuid fb62d445-719d-42e9-9c4a-8b72b53d972c))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "Q1") (unit 1)
         )
@@ -2376,7 +2376,7 @@
     )
     (pin "1" (uuid aec0cdca-17f0-4bd7-a2c5-d12492c40967))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "#PWR07") (unit 1)
         )
@@ -2402,7 +2402,7 @@
     (pin "1" (uuid ee0611fa-b647-4047-90ed-d6d772a1ea08))
     (pin "2" (uuid d7c2c0bb-2960-4a26-8ccc-365bf4c5e114))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "D1") (unit 1)
         )
@@ -2427,7 +2427,7 @@
     )
     (pin "1" (uuid 4f67b5f3-948a-4a61-8b24-5d382c8b1621))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "#PWR010") (unit 1)
         )
@@ -2452,7 +2452,7 @@
     )
     (pin "1" (uuid 4b6a2294-b589-4410-80b6-39c544e5693a))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "#PWR011") (unit 1)
         )
@@ -2478,7 +2478,7 @@
     (pin "1" (uuid 11400fee-20fd-4e3e-96bd-cf53aa2a18cf))
     (pin "2" (uuid 7e6e777f-19fd-4c5a-bb33-5a7c40a28c6a))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "C4") (unit 1)
         )
@@ -2505,7 +2505,7 @@
     (pin "2" (uuid afeb222e-681f-4674-8dac-973002fb7edf))
     (pin "1" (uuid 5cf65837-7d0a-43eb-a3f4-41a652ae9377))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "SW1") (unit 1)
         )
@@ -2531,7 +2531,7 @@
     (pin "2" (uuid b148095e-2d91-49ca-98fc-8fb4bf0c2265))
     (pin "1" (uuid 65fb10b9-c5a1-4964-876a-3cfc86257f96))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "R3") (unit 1)
         )
@@ -2556,7 +2556,7 @@
     )
     (pin "1" (uuid 93b44366-8ee1-40e4-945a-c1750a4f9a32))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "#PWR01") (unit 1)
         )
@@ -2582,7 +2582,7 @@
     (pin "1" (uuid 0771a44a-98bf-4c09-9254-3874d572858a))
     (pin "2" (uuid 4a9ae500-b87f-41f6-92da-d4f91a632810))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "C5") (unit 1)
         )
@@ -2607,7 +2607,7 @@
     )
     (pin "1" (uuid f2fbf0a0-a50a-4f97-94c2-6b0ef28e08cf))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "#PWR019") (unit 1)
         )
@@ -2632,7 +2632,7 @@
     )
     (pin "1" (uuid d2ccdce1-4717-4502-a83d-e65d35e481c2))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "#PWR021") (unit 1)
         )
@@ -2657,7 +2657,7 @@
     )
     (pin "1" (uuid 3fbe8031-5939-438a-be59-b4415fc1ad7e))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "#PWR06") (unit 1)
         )
@@ -2683,7 +2683,7 @@
     (pin "1" (uuid f70fd7a4-67fc-4a13-9694-870d551362c0))
     (pin "2" (uuid 178e0a6b-d6c7-4191-8027-e3555afa8f3f))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "C6") (unit 1)
         )
@@ -2713,7 +2713,7 @@
     (pin "4" (uuid 0ebfd40e-9c4b-4956-8150-9025c4ea6f50))
     (pin "1" (uuid 87454a21-4f4e-4c0e-a794-a9f5db402cf1))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "J5") (unit 1)
         )
@@ -2738,7 +2738,7 @@
     )
     (pin "1" (uuid 5a5f7876-2eea-4585-8d9a-ee0fcff4757a))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "#PWR05") (unit 1)
         )
@@ -2763,7 +2763,7 @@
     )
     (pin "1" (uuid 61e75d11-e858-43c4-81c4-70ccb059a3b3))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "#PWR012") (unit 1)
         )
@@ -2788,7 +2788,7 @@
     )
     (pin "1" (uuid 9aaf4818-a320-4002-8d32-17e0bc95a5b0))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "#PWR03") (unit 1)
         )
@@ -2813,7 +2813,7 @@
     )
     (pin "1" (uuid f80f65e4-9302-43bf-b519-3ba7775f42b6))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "#PWR017") (unit 1)
         )
@@ -2839,7 +2839,7 @@
     (pin "2" (uuid e2798a45-c799-474a-b9c1-8e80cc91eaf9))
     (pin "1" (uuid 368c3036-e50e-4d64-b505-e95fc63ac3f1))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "R8") (unit 1)
         )
@@ -2866,7 +2866,7 @@
     (pin "2" (uuid 21bb798f-20bb-4afd-9984-9cf174d0c5e2))
     (pin "1" (uuid d6367a05-1725-40d5-a6a4-168c1ca75376))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "J3") (unit 1)
         )
@@ -2892,7 +2892,7 @@
     (pin "1" (uuid a727f680-e9c5-4ad8-9f49-d4d96ef23cb0))
     (pin "2" (uuid 42643c4d-fb6e-4fd0-ad54-bc0db76ba3e0))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "C3") (unit 1)
         )
@@ -2918,7 +2918,7 @@
     (pin "2" (uuid 6f3ed17a-4897-49ea-8ca2-cada1e9ac9e0))
     (pin "1" (uuid 327af0f6-6d69-4358-ab35-061a6d01befb))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "R5") (unit 1)
         )
@@ -2945,7 +2945,7 @@
     (pin "3" (uuid 9d3ce929-2539-457a-a43d-d45814a6610b))
     (pin "1" (uuid 82b7845f-c989-409f-bc0f-b7f668627a0b))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "Q2") (unit 1)
         )
@@ -2971,7 +2971,7 @@
     (pin "2" (uuid d08b7730-4377-4a26-960a-18e32652d326))
     (pin "1" (uuid e5f73cbc-ab86-4bdf-a3cc-bba60459168f))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "R4") (unit 1)
         )
@@ -2996,7 +2996,7 @@
     )
     (pin "1" (uuid 6ecc1cbe-186b-4697-b410-b7ff3fe249d9))
     (instances
-      (project "FTDIBreakout"
+      (project "FT231x-Breakout"
         (path "/3ba8e31e-6a12-4b2c-b7ff-be557fb7bb2f"
           (reference "#PWR016") (unit 1)
         )
