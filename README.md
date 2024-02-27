@@ -36,6 +36,8 @@ The PCB KiCAD file can be found in the `kicad` directory.
 
 ## Enclosure
 
+![Enclosure](./images/Enclosure.png)
+
 The enclosure was designed to be 3D printed. The enclosure was designed to house most of the PCB, with the right side of the board sticking out to allow for easy access to the break-out pins. Exposing the right side of the PCB also means that the silk-screen can be used to identify the functionality of the broken-out pins.
 
-The enclosure STL file can be found in the `enclosure` directory.
+The enclosure 3mf files can be found in the `enclosure` directory.
