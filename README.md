@@ -2,7 +2,7 @@
 
 ![Showcase](./images/Showcase.jpg)
 
-This repository features a USB 2 UART converter/breakout board built on the FTDI FT231X IC. Although numerous affordable USB to UART converters are readily available in the market, this particular one was designed around a spare FT231X IC soldered to a SMD break-out adapter we had in our lab. The PCB was designed with a single-board layout in consideration, as we etched the PC oursevles.
+This repository features a USB 2 UART converter/breakout board built on the FTDI FT231X IC. Although numerous affordable USB to UART converters are readily available on the market, this particular one was designed around a spare FT231X IC soldered to a SMD break-out adapter we had in our lab. Figured we'd make use of it then! The PCB was designed with a single-board layout in consideration, as we etched the PC oursevles.
 
 We don't really expect anyone to use this design, but we're making it available for archival purposes in case it breaks down some day or someone is simply curious about the design. However, if you do happen to find it useful, that's pretty awesome too!
 
