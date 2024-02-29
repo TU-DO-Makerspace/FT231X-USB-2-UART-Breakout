@@ -14,7 +14,7 @@ The schematic pretty much provides the bare minimum to use the FT231X IC as a US
 
 - A switch to switch between 3.3V and 5V logic levels
 - LEDs to indicate power and data transmission
-- Exposed suppy, RX, TX, RTS, CTS, DTR, DSR, DCD, and RI pins
+- Exposed supply, RX, TX, RTS, CTS, DTR, DSR, DCD, and RI pins
 - Exposed CBUS pins for custom functionality
 
 The data transmission LEDs have been implemented via the RX/TX lines. While it is possible to use the CBUS pins for this purpose, we decided to use the RX/TX lines to keep all CBUS pins exposed.
