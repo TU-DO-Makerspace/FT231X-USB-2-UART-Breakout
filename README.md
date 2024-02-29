@@ -28,9 +28,9 @@ The schematic KiCAD file can be found in the `kicad` directory.
 ![PCBPic1.png](./images/PCBPic1.jpg)
 ![PCBPic2.png](./images/PCBPic2.jpg)
 
-The PCB was designed to be self-etched, and as such, it is a single-layer board. It was designed in a way where the right side of the board breaks out the FT231X pins with angled 2.54mm male headers. The side of the board is then meant to "stick out" of the enclosure to allow for easy access to the pins. We also make heavy use of JST connectors so that the board can easily be removed from the enclosure and repaired or modified if necessary.
+The PCB was designed to be self-etched, and as such, it is a single-layer board. The front copper layer is only used to visualize jumpers. We used the "toner transfer method" to etch the PCB, which allows us to print a silk screen on to the non-conductive layer.
 
-We also make use of the front silk-screen layer to indicate the pinout of the FT231X IC, as well as the pinout of the JST connectors. This was done to make it easier to use the board without having to refer to the schematic.
+The PCB was designed in a way where the right side of the board breaks out the FT231X pins with angled 2.54mm male headers. The side of the board is then meant to "stick out" of the enclosure to allow for easy access to the pins. We also make heavy use of JST connectors so that the board can easily be removed from the enclosure and repaired or modified if necessary. The front silk-screen indicates the pinout of the FT231X IC, as well as the pinout of the JST connectors. This was done to make it easier to use the board without having to refer to the schematic.
 
 The PCB KiCAD file can be found in the `kicad` directory.
 
